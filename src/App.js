@@ -25,6 +25,8 @@ class App extends React.Component {
   playSound(id, trigger) {
     const sound = document.getElementById(trigger);
     sound.play();
+    document.getElementById(id).classList.add('bg-warning');
+    setTimeout(()=>{document.getElementById(id).classList.remove('bg-warning');},200)
     this.setState({
       sound: id
     });
