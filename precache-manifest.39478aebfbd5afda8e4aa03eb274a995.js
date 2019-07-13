@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2beb15d942dc7996762311ce22239f05",
+    "revision": "12cebfa1e7071b21705192b4e07f71eb",
     "url": "/drum-machine/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drum-machine/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "b4fb5ee20f611ef9fde4",
-    "url": "/drum-machine/static/css/main.1acaba05.chunk.css"
+    "revision": "b07e29e91836b9021a0f",
+    "url": "/drum-machine/static/css/main.f7679ff6.chunk.css"
   },
   {
     "revision": "e7d90718a84a0b99e5e5",
     "url": "/drum-machine/static/js/2.4a5ba745.chunk.js"
   },
   {
-    "revision": "b4fb5ee20f611ef9fde4",
-    "url": "/drum-machine/static/js/main.3ad9b02f.chunk.js"
+    "revision": "b07e29e91836b9021a0f",
+    "url": "/drum-machine/static/js/main.2fe5489e.chunk.js"
   },
   {
     "revision": "afcf9fe73353caf758cf",
