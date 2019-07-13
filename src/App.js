@@ -10,7 +10,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       drum: drum,
-      sound: ""
+      sound: ''
     };
     this.playSound = this.playSound.bind(this);
     this.handleKeyPress = this.handleKeyPress.bind(this);
@@ -24,9 +24,7 @@ class App extends React.Component {
   }
   playSound(id, trigger) {
     const sound = document.getElementById(trigger);
-    const active = document.getElementById(id);
     sound.play();
-    
     this.setState({
       sound: id
     });
